@@ -126,7 +126,7 @@ export async function requestOpenai(req: NextRequest) {
     // So if the streaming is disabled, we need to remove the content-encoding header
     // Because Vercel uses gzip to compress the response, if we don't remove the content-encoding header
     // The browser will try to decode the response with brotli and fail
-    newHeaders.set('content-encoding', 'none');
+    newHeaders.set('content-encoding', 'gzip');
 
     return new Response(res.body, {
       status: res.status,
