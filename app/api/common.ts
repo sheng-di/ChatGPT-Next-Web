@@ -127,6 +127,7 @@ export async function requestOpenai(req: NextRequest) {
     // Because Vercel uses gzip to compress the response, if we don't remove the content-encoding header
     // The browser will try to decode the response with brotli and fail
     newHeaders.set('content-encoding', 'gzip');
+    newHeaders.set('transfer-encoding', 'chunked');
 
     return new Response(res.body, {
       status: res.status,
