@@ -85,11 +85,6 @@ const es: PartialLocaleType = {
       GoToUpdate: "Actualizar",
     },
     SendKey: "Tecla de envío",
-    DisableCodeBlockAutoCompletion: {
-      Title: "Desactivar autocompletado de bloque de código",
-      SubTitle:
-        "Cuando no está desactivado, al ingresar el bloque de código ``` se autocompletará",
-    },
     Theme: "Tema",
     TightBorder: "Borde ajustado",
     SendPreviewBubble: {

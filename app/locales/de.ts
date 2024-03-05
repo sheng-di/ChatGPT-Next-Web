@@ -85,11 +85,6 @@ const de: PartialLocaleType = {
       GoToUpdate: "Aktualisieren",
     },
     SendKey: "Senden-Taste",
-    DisableCodeBlockAutoCompletion: {
-      Title: "Automatische Vervollständigung von Codeblöcken deaktivieren",
-      SubTitle:
-        "Wenn nicht deaktiviert, wird der Codeblock ``` automatisch vervollständigt",
-    },
     Theme: "Erscheinungsbild",
     TightBorder: "Enger Rahmen",
     SendPreviewBubble: {

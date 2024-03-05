@@ -80,11 +80,6 @@ const no: PartialLocaleType = {
       GoToUpdate: "Oppdater",
     },
     SendKey: "Send nøkkel",
-    DisableCodeBlockAutoCompletion: {
-      Title: "Deaktiver automatisk fullføring av kodeblokk",
-      SubTitle:
-        "Når det ikke er deaktivert, vil inntasting av kodeblokk ``` automatisk fullføres",
-    },
     Theme: "Tema",
     TightBorder: "Stram innramming",
     Prompt: {

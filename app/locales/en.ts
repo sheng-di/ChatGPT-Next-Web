@@ -172,10 +172,6 @@ const en: LocaleType = {
       GoToUpdate: "Update",
     },
     SendKey: "Send Key",
-    DisableCodeBlockAutoCompletion: {
-      Title: "Disable Code Block Auto Completion",
-      SubTitle: "When not disabled, entering code block ``` will auto complete",
-    },
     Theme: "Theme",
     TightBorder: "Tight Border",
     SendPreviewBubble: {

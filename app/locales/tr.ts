@@ -85,11 +85,6 @@ const tr: PartialLocaleType = {
       GoToUpdate: "Güncelle",
     },
     SendKey: "Gönder Tuşu",
-    DisableCodeBlockAutoCompletion: {
-      Title: "Kod Bloğu Otomatik Tamamlamayı Devre Dışı Bırak",
-      SubTitle:
-        "Devre dışı bırakılmadığında, kod bloğu ``` otomatik olarak tamamlanır",
-    },
     Theme: "Tema",
     TightBorder: "Tam Ekran",
     SendPreviewBubble: {

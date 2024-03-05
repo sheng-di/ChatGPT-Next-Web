@@ -194,11 +194,6 @@ const id: PartialLocaleType = {
       },
     },
     SendKey: "Kirim",
-    DisableCodeBlockAutoCompletion: {
-      Title: "Nonaktifkan Penyelesaian Otomatis Blok Kode",
-      SubTitle:
-        "Ketika tidak dinonaktifkan, memasukkan blok kode ``` akan dilengkapi secara otomatis",
-    },
     Theme: "Tema",
     TightBorder: "Batas Ketat",
     SendPreviewBubble: {
@@ -374,8 +369,8 @@ const id: PartialLocaleType = {
   },
   Exporter: {
     Description: {
-      Title: "Hanya pesan setelah menghapus konteks yang akan ditampilkan",
-    },
+      Title: "Hanya pesan setelah menghapus konteks yang akan ditampilkan"
+    },  
     Model: "Model",
     Messages: "Pesan",
     Topic: "Topik",

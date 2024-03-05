@@ -85,10 +85,6 @@ const cs: PartialLocaleType = {
       GoToUpdate: "Aktualizovat",
     },
     SendKey: "Odeslat klíč",
-    DisableCodeBlockAutoCompletion: {
-      Title: "Zakázat automatické dokončování bloku kódu",
-      SubTitle: "Pokud není zakázáno, blok kódu ``` se automaticky dokončí",
-    },
     Theme: "Téma",
     TightBorder: "Těsné ohraničení",
     SendPreviewBubble: {
